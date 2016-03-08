@@ -7,7 +7,7 @@ The following folders are included:
 
 * source: source files of the two illustrated bibles
 * code: Prolog code for converting the source files
-* rdf: the Turtle files resulting from the conversion
+* rdf: Turtle files representing the bibles and vocabulary of page types
 
 ## Run conversion ##
 This is a step by step description of how to run the conversion to RDF.
