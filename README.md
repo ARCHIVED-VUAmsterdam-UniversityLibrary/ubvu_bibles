@@ -9,5 +9,14 @@ The following folders are included:
 * code: Prolog code for converting the source files
 * rdf: Turtle files representing the bibles and vocabulary of page types
 
+## Wiki pages
+* [System overview](https://github.com/VUAmsterdam-UniversityLibrary/ubvu_bibles/wiki)
+* [Setup](https://github.com/VUAmsterdam-UniversityLibrary/ubvu_bibles/wiki/1.-Setup)
+* [Collection data](https://github.com/VUAmsterdam-UniversityLibrary/ubvu_bibles/wiki/2.-Collection-data)
+* [Taxonomies](https://github.com/VUAmsterdam-UniversityLibrary/ubvu_bibles/wiki/3.-Taxonomies)
+* [Domains](https://github.com/VUAmsterdam-UniversityLibrary/ubvu_bibles/wiki/4.-Domains)
+* [Interface adaption](https://github.com/VUAmsterdam-UniversityLibrary/ubvu_bibles/wiki/5.-Interface-adaptation)
+* [Locale](https://github.com/VUAmsterdam-UniversityLibrary/ubvu_bibles/wiki/6.-Locale)
+
 ## Licences ##
 Both illustrated bibles in this repo belong to the UBVU Library and any public usage should be made in accordance with the VU library policies.
